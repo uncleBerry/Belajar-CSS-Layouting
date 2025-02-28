@@ -1,0 +1,28 @@
+div {
+ width: 300px;
+ box-sizing: border-box;
+}
+.lol {
+ 
+    background-color: aqua;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px 30px 40px 20px;
+    border: 20px solid #5b0ced;
+}
+.lom {
+  
+    background-color: red;
+    margin-left: 50px;
+    margin: auto;
+    margin-top:20px;
+    padding:20px 30px 40px 20px;
+    border: 10px dashed gold;
+}
+.lon{
+ background-color: blanchedalmond;
+ margin: 20px auto;
+ padding: 30px;
+ border-left:10px double pink;
+ border-top: 5px dotted green;
+}
